@@ -1,4 +1,4 @@
-const BBAKBBAKYEE = require('./BBAKBBAKYE')
+const BBAKBBAKYEE = require('./BBAKBBAKYEE')
 const target = new BBAKBBAKYEE.Target('Human', true)
 
 target.shootTalmobim()
